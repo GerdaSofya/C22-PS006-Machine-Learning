@@ -1,9 +1,9 @@
 # C22-PS006-Machine-Learning / BUSAHA
 
 # Table of contents
-* [General info] (#General info)
-* [Technologies] (#Technologies)
-* [Contact] (#Contact)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Contact](#contact)
 
 # General info
 This is the machine learning part of our project BUSAHA which stand for "Buka dan Buat Usaha", BUSAHA will help people to identify which business is suitable for them through machine learning. 
