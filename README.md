@@ -9,6 +9,10 @@
 This is the machine learning part of our project BUSAHA which stand for "Buka dan Buat Usaha", BUSAHA will help people to identify which business is suitable for them through machine learning. 
 This app might be able to predict the most likely business idea to succeed by looking at multiple variables such as store location, market, fund, and other factors that the user needs to fill.
 
+# Prerequisites
+'''bash
+install tensorflow as tf
+'''
 
 # Technologies
 
