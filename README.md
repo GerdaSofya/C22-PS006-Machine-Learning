@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Prerequisites](#prerequisites)
 * [Technologies version](#technologies-version)
+* [Models](#models)
 * [Contact](#contact)
 
 
@@ -37,6 +38,11 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
 * Pandas version : 1.3.5
 * Tensorflow version : 2.8.0
 * Scikit - learn version : 1.0.2
+
+# Models
+* Neural Network 
+* Random Forest Decision Tree
+* K Nearest Neighbor
   
 # Contact
 For further information you can contact to :
