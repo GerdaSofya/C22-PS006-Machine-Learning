@@ -17,7 +17,7 @@ This project using [Neural Network](https://en.wikipedia.org/wiki/Neural_network
 
 # Roadmap
 This is our short journey working for the machine learning model
-* The first thing we did is collect the data for making datasets, so you can find the raw dataset in Data Cleaning and Processing folder
+* The first thing we did is collect the data for making datasets, so you can find the raw dataset in [Data Cleaning and Preprocessing](https://github.com/GerdaSofya/C22-PS006-Machine-Learning/tree/main/Data%20Cleaning%20and%20Preprocessing) folder
 * Then we clean and process the raw data to make the dataset
 * After that we try making random forest model using [TensorFlow Decision Forest(TFDF)](https://www.tensorflow.org/decision_forests)
 * Unfortunately the TFDF model cannot convert into TFLite, so we made the second model is K-Nearest Neighbor(KNN)
