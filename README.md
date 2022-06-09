@@ -41,7 +41,7 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
 
 # Models
 * Neural Network 
-* Random Forest Decision Tree
+* TensorFlow Decision Forest
 * K Nearest Neighbor
   
 # Contact
