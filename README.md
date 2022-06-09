@@ -14,6 +14,18 @@ This app might be able to predict the most likely business idea to succeed by lo
 
 This project using [Neural Network](https://en.wikipedia.org/wiki/Neural_network) model using [Tensorflow](https://www.tensorflow.org/), so far we've achieve 90% of training accuracy and 100% validation accuracy. The dataset contains 130+ samples with 17 classes and 20+ features. For spliting data and convert string data into numbering per classes/category we are using [Pandas](https://pandas.pydata.org/) and we using l2 normalization using [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html), also for the model we are using sequential model from [Keras](https://keras.io/api/models/sequential/) API. The model saved in h5 format and [TFLite](https://www.tensorflow.org/lite) format, in case you want to deploy ML model into devices you can use TFLite model.
 
+# Roadmap
+This is our short journey working for the machine learning model
+* The first thing we did is collect the data for making datasets, so you can find the raw dataset in Data Cleaning and Processing folder
+* Then we clean and process the raw data to make the dataset
+* After that we try making random forest model using [TensorFlow Decision Forest(TFDF)](https://www.tensorflow.org/decision_forests)
+* Unfortunately the TFDF model cannot convert into TFLite, so we made the second model is K-Nearest Neighbor(KNN)
+* No luck in second model, so we tried the last model using Neural Network.
+* Luckly NN model can convert into TFLite, and we decide to make NN model as our main model
+* So the last thing we convert to TFLite model
+
+There is TFDF and KNN model you can try as comparison with our main model.
+
 # Prerequisites
 Here are the technologies you should install if you are using Jupyter-notebook. If you're using Google Colab you don't need to install it just import the libraries
 * Python : You can access this link to install [python](https://www.python.org/downloads/) and using [pip](https://pypi.org/project/pip/) for installing  packages/libraries 
@@ -46,6 +58,6 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
   
 # Contact
 For further information you can contact to :
-- husain.ibn.hasan@gmail.com (Ahmad Rusyadi)
-- danieladitya38@gmail.com (Daniel Aditya)
-- reza.saifuddin51@gmail.com (Reza Saifuddin)
+- husain.ibn.hasan@gmail.com (Ahmad Rusyadi/GerdaSofya)
+- danieladitya38@gmail.com (Daniel Aditya/Venomeio)
+- reza.saifuddin51@gmail.com (Reza Saifuddin/donatkukus)
