@@ -2,6 +2,7 @@
 
 # Table of contents
 * [General info](#general-info)
+* [Roadmap](#roadmap)
 * [Prerequisites](#prerequisites)
 * [Technologies version](#technologies-version)
 * [Models](#models)
